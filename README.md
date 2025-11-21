@@ -24,4 +24,4 @@ pip install opencv-python numpy
 ```
 ### Use
 
-```Python main.py
+```Python main.py```
