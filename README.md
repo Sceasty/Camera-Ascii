@@ -21,8 +21,6 @@ A Python application that detects all available cameras and displays real-time v
 ### 🔧 Installation
 ```bash
 pip install opencv-python numpy
+Python main.py
 ```
-### Use
 
-```Python main.py
-```
